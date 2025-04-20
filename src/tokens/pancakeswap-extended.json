@@ -1,7 +1,6 @@
 {
   "name": "PancakeSwap Token",
-  "symbol": "CAKE",
-  ...
+  "symbol": "CAKE"
 },
 {
   "name": "TungTungSahurCoin",
@@ -11,4 +10,3 @@
   "decimals": 18,
   "logoURI": "https://raw.githubusercontent.com/Hasun21/tts-assets/main/logo.png"
 }
-
